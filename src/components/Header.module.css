@@ -1,0 +1,18 @@
+.header {
+  height: 12.5rem;
+  background-color: var(--gray-700);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+}
+
+.rocket {
+  width: 1.375rem;
+  height: 2.25rem;
+}
+
+.todo {
+  width: 5.75rem;
+  height: 3rem;
+}
