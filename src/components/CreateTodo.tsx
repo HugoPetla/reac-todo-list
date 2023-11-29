@@ -49,6 +49,7 @@ export function CreateTodo({ onHandleCreateNewTask }: CreateTodoProps) {
         type="submit"
         className={styles.button}
         disabled={isNewTaskTitleEmpty}
+        title="Criar nova task"
       >
         Criar <PlusCircle />
       </button>
